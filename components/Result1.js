@@ -6,8 +6,8 @@ export default function Result1({ title }) {
                     <link rel="stylesheet" href="styles.css"/>
                         <title>demo5</title>
                         <style>
-                            .green {'color'= 'green'}
-                            .red {'color'= 'red'}
+                            .green {'color:green'}
+                            .red {'color:red'}
                         </style>
                 </head>
                 <body>
