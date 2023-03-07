@@ -1,14 +1,15 @@
 import Head from "next/head";
-import Header from "@components/Header";
-import Footer from "@components/Footer";
-import Result1 from "@components/Result1";
-import Result2 from "@components/Result2";
+import { useState } from "react";
+import FullDoc from "./fulldoc";
 
-export default function Home() {
+export default function ResultsHome() {
+
+const [result,setResult] = useState();
+
   return (
     <div className="container">
       <Head>
-        <title>Next.js Toolbox</title>
+        <title>Results</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -31,8 +32,7 @@ export default function Home() {
 
       </main>
       <div className="content">
-        {/* <Result1/> */}
-        <Result2 />
+        
       </div>
       {/* <Footer /> */}
     </div>
