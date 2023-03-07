@@ -3,16 +3,11 @@ export default function Result1({ title }) {
         <>
             <html>
                 <head>
-                    <link rel="stylesheet" href="styles.css"/>
                         <title>demo5</title>
-                        <style>
-                            .green {'color:green'}
-                            .red {'color:red'}
-                        </style>
                 </head>
                 <body>
                     <h2>Direct Supervision of Certain Cardiac and Pulmonary Rehabilitation Services by Interactive Communications Technology</h2>
-                    <div class="para">
+                    <div class="para changes">
                         <p>
                             In the interim final rule with comment period titled “Policy and Regulatory Provisions in Response to the COVID-19 Public Health Emergency</p>
                         <p class="green">,</p><p>” published on April 6, 2020 (the April 6th COVID-19 IFC) (85 FR 19230, 19246, 19286), we changed the regulation at 42 CFR 410.27(a)(1)(iv)(D) to provide that, during a Public Health Emergency as defined in § 400.200, the presence of the physician for purposes of the direct supervision requirement for pulmonary rehabilitation (PR), cardiac rehabilitation (CR), and intensive cardiac rehabilitation (ICR) services includes virtual presence through audio/video real-time communications technology when use of such technology is indicated to reduce exposure risks for the beneficiary or health care provider. Specifically, the required direct physician supervision can be provided </p>

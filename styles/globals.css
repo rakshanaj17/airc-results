@@ -22,3 +22,21 @@ main {
 hr {
   width: 100%;
 }
+
+.content{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.content .changes {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.green{
+  color: darkgreen;
+}
+
+.red{
+  color: red;
+}

@@ -15,12 +15,18 @@ export default function Home() {
         {/* <Header title="Next.js Toolbox" /> */}
         <hr />
         <p className="description">
-          This is a comparision between doc1 and doc2
+          This is a comparision between the docs:
+          <br/>
+          <b> Proposed Rule - 2022-15372 </b>
+           and 
+           <b> Final Rule - 2022-23918 </b>
+           
         </p>
-
-        <Result1/>
         
       </main>
+      <div class="content">
+      <Result1/>
+      </div>
       {/* <Footer /> */}
     </div>
   );
